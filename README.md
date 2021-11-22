@@ -5,7 +5,7 @@ I mostly work in [Python](https://python.org/)
 ### Currently working on:
 
 - A discord bot called [Aivo](https://discord.com/oauth2/authorize?client_id=549693186918973442&scope=bot&permissions=8)
-- A website [webiste](https://aivo.minlor.net) for a discord bot
+- A website [webiste](https://minlor.tech)
 
 ### My Github Stats:
 <a href="Minlor's GitHub stats">
