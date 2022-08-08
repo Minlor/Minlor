@@ -6,6 +6,7 @@ I mostly work in [Python](https://python.org/)
 
 - A discord bot called [Aivo](https://discord.com/oauth2/authorize?client_id=549693186918973442&scope=bot&permissions=8)
 - A [webiste](https://minlor.net)
+- A [custom uploader](https://cdn.minlor.net)
 - A ton of private bots for other people
 
 ### My Github Stats:
