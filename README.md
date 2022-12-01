@@ -1,5 +1,5 @@
 # About me:
-My name is [Minlor](https://minlor.net) and I work on random stuff which just comes to my mind. I come from [Bosnia & Herzegovina](https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina).
+My name is [Minlor](https://minlor.net) and I work on random stuff which just comes to my mind.
 I mostly work in [Python](https://python.org/)
 
 ### Currently working on:
