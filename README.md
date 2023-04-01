@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="">
+  <a href="https://minlor.net">
     <img align="center" src="https://raw.githubusercontent.com/Minlor/Minlor/main/Github.png"/>
   </a>
   <br>
