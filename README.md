@@ -1,18 +1,21 @@
-# About me:
-My name is [Minlor](https://minlor.net) and I work on random stuff which just comes to my mind.
-I mostly work in [Python](https://python.org/)
-
-### Currently working on:
-
-- A discord bot called [Aivo](https://discord.com/oauth2/authorize?client_id=549693186918973442&scope=bot&permissions=8)
-- A [webiste](https://minlor.net)
-- A [custom uploader](https://cdn.minlor.net)
-- A ton of private bots for other people
-
-### My Github Stats:
-<a href="Minlor's GitHub stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Minlor&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="Minlor's Top Langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minlor&count_private=true&show_icons=true&theme=tokyonight&layout=compact" />
-</a>
+<div align="center">
+  <a href="">
+    <img align="center" src="https://raw.githubusercontent.com/Minlor/Minlor/main/Github.png"/>
+  </a>
+  <br>
+  <a href="https://minlor.net">
+    <img align="center" src="https://raw.githubusercontent.com/Minlor/Minlor/main/Website.png?IHateCaching"/>
+  </a>
+  <a href="https://cdn.minlor.net">
+    <img align="center" src="https://raw.githubusercontent.com/Minlor/Minlor/main/Uploader.png?IHateCaching"/>
+  </a>
+  <br>
+  <a href="">
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Minlor&theme=transparent&hide_border=true&fire=6ABCEB&stroke=73EBD6&ring=266FEB&sideNums=8BE0EB&currStreakNum=5EBDEB&dates=7DA6EB&currStreakLabel=76E2EB&sideLabels=76CFEB"/>
+  </a>
+  <br>
+  <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Minlor&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
+  </a>
+  <br>
+ </div>
