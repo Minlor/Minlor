@@ -6,7 +6,7 @@
   <a href="https://minlor.net">
     <img align="center" src="https://raw.githubusercontent.com/Minlor/Minlor/main/Website.png?IHateCaching"/>
   </a>
-  <a href="https://cdn.minlor.net">
+  <a href="https://cloud.minlor.net">
     <img align="center" src="https://raw.githubusercontent.com/Minlor/Minlor/main/Uploader.png?IHateCaching"/>
   </a>
   <br>
